@@ -1,3 +1,7 @@
+This fork of youtube-dl includes a fork of the source code as well as the latest binary and source packages from the debian sid repository as of Oct 23 2020
+These binary packages are located in the /binaries directory of this git repository
+
+
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
 youtube-dl - download videos from youtube.com or other video platforms
